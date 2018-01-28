@@ -1,0 +1,2 @@
+vhdl work "encrypter.vhd"
+vhdl work "TBforEncryptor.vhd"
